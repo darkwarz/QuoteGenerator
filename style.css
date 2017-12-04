@@ -1,0 +1,16 @@
+span {
+    font-size:2em;
+    
+}
+p {
+    font-size:2em;
+    font-family: garamond;
+}
+body {
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-image: url('https://blog.periodiccorp.com/content/images/2014/Aug/Code-Wallpaper.jpg');
+	font-family: Vollkorn SC;
+	color: #FFFFFF;
+	font-size: 30px;
+}
